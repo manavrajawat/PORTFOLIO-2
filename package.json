@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manavrajawat/PORTFOLIO.git"
+    "url": "git+https://github.com/manavrajawat/PORTFOLIO-MANAV.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/manavrajawat/PORTFOLIO/issues"
+    "url": "https://github.com/manavrajawat/PORTFOLIO-MANAV/issues"
   },
-  "homepage": "https://manavrajawat.github.io/PORTFOLIO",
+  "homepage": "https://manavrajawat.github.io/PORTFOLIO-MANAV",
   "description": "",
   "dependencies": {
     "react": "^19.1.1",
