@@ -1,33 +1,23 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
+  "description": "My Portfolio Project",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "vite",
-    "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+    "start": "vite"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/manavrajawat/PORTFOLIO-MANAV.git"
-  },
-  "keywords": [],
-  "author": "",
+  "keywords": ["portfolio", "web", "react", "vite"],
+  "author": "Manav Rajawat",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/manavrajawat/PORTFOLIO-MANAV/issues"
-  },
-  "homepage": "https://manavrajawat.github.io/PORTFOLIO-MANAV",
-  "description": "",
   "dependencies": {
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0",
-    "vite": "^7.1.5"
+    "vite": "^7.1.5",
+    "@vitejs/plugin-react": "^4.0.0"
   }
 }
